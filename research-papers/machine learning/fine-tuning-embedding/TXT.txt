@@ -1,0 +1,5 @@
+https://www.databricks.com/blog/improving-retrieval-and-rag-embedding-model-finetuning
+
+good one-
+
+https://www.philschmid.de/fine-tune-embedding-model-for-rag
